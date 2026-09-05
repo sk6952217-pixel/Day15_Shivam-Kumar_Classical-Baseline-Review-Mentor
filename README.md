@@ -102,7 +102,7 @@ Please review the following questions and provide feedback:
 
 Mentor Feedback:
 
-**Answer**
+**yes**
 
 ---
 
@@ -112,7 +112,7 @@ Mentor Feedback:
 
 Mentor Feedback:
 
-**Answer**
+**Yes, as it's value is high**
 
 ---
 
@@ -122,7 +122,7 @@ Mentor Feedback:
 
 Mentor Feedback:
 
-**Answer**
+**Not needed**
 
 ---
 
@@ -132,7 +132,7 @@ Mentor Feedback:
 
 Mentor Feedback:
 
-**Answer**
+**Yes**
 
 ---
 
@@ -142,7 +142,7 @@ Mentor Feedback:
 
 Mentor Feedback:
 
-**Answer**
+**No**
 
 ---
 
@@ -152,13 +152,13 @@ Mentor Feedback:
 
 Mentor Feedback:
 
-**Answer**
+**Yes**
 
 ---
 
 ##  Corrections Suggested by Mentor
 
-**Suggestion**
+**You can procede further**
 
 ---
 
@@ -176,6 +176,6 @@ After incorporating mentor feedback:
 
 ### Mentor Signature
 
-**Signature:** ______________________________
+**Signature:**  gollasudheerbabu
 
-**Date:** ______________________________
+**Date:**  04/09/26
