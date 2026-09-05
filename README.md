@@ -171,3 +171,11 @@ After incorporating mentor feedback:
 - Finalize evaluation metrics.
 - Confirm the learning-based approach.
 - Begin the next stage of model development.
+
+---
+
+### Mentor Signature
+
+**Signature:** ______________________________
+
+**Date:** ______________________________
